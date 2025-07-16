@@ -1,0 +1,39 @@
+.ay {
+  color: rgba(215, 127, 129, 1) !important;
+}
+.uzzi {
+  margin-top: 10px;
+  color: #4b6382;
+}
+.usman {
+  box-sizing: border-box;
+  display: block;
+  /* color:#ece8d9 ; */
+  background-color: #ece8d9;
+  border-width: 0px;
+  border-style: solid;
+  height: 600px;
+  /* position: relative; */
+}
+.vv {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+@font-face {
+  font-family: my font;
+  src: url(./Assets/static/DMSans_18pt-ExtraBoldItalic.ttf);
+}
+.ff {
+  font-family: my font;
+  color: #708095;
+}
+.in {
+  border-radius: 6px;
+  border: 1px solid #e8e8e8;
+  width: 100%;
+  height: 70px;
+}
+.image {
+  transform: translate(1076px, -55px);
+}
